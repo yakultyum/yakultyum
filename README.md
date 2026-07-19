@@ -4,58 +4,35 @@
 
 <br/>
 
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
+## About
 
-```javascript
-const carly = {
-  university : "Zhejiang University 🎓",
-  role       : "AI Product Manager",
-  focus      : ["LLM Products", "User Research", "0 → 1"],
-  building   : "Mathos — AI Teaching Platform 🧮",
-  belief     : "great products start with great questions",
-};
-```
+AI Product Manager based in Hangzhou, currently studying at Zhejiang University.
 
-<br clear="right"/>
+I've interned at two major tech companies working on AI products — focusing on **LLM Agents** and **consumer-facing growth**. I care deeply about the people behind the screen: in an age of AI, I believe the most valuable thing a PM can do is stay curious about human behavior, and build products that feel genuinely warm.
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=ffb7c5&height=6&section=header" width="100%"/>
-</div>
+> *In the AI era, I want to be the one who keeps asking: "but what does the human actually feel?"*
 
-### 🚀 Featured Project
+<br/>
 
-<div align="center">
+## Projects
 
-[![Mathos](https://github-readme-stats.vercel.app/api/pin/?username=yakultyum&repo=mathos&theme=rose_pine&border_color=f9a8d4&title_color=ec4899&icon_color=f472b6)](https://github.com/yakultyum/mathos)
+| | Project | Description |
+|---|---|---|
+| 🧮 | [**Mathos**](https://github.com/yakultyum/mathos) | AI-powered linear algebra teaching platform — RAG Q&A, auto-grading, question bank, 3D visualization |
+| 🪞 | [**Mirrora**](https://github.com/yakultyum/mirrora) | AI-driven personal dance learning app |
+| 🪄 | [**Lumos**](https://github.com/yakultyum/lumos-app) | A self-growth journaling app for Chinese youth, inspired by drift bottles |
+| 🏛️ | [**Greek Mythology Personality Test**](https://github.com/yakultyum/Greek-mythology-personality-test) | Personality test with a Greek mythology theme |
+| 🎩 | [**Sorting Hat**](https://github.com/yakultyum/sorting-hat) | A skill for customizing AI personas and managing workflows |
 
-</div>
+<br/>
 
-<div align="center">
-<img src="assets/divider.jpg" width="80%" />
-</div>
+## Philosophy
 
-### 📊 GitHub Stats
+I don't think great products come from better algorithms alone.
 
-<div align="center">
+They come from noticing things — the small frustrations people don't bother to mention, the habits they've quietly built around broken tools, the moments where a product either earns trust or loses it forever.
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=yakultyum&show_icons=true&theme=rose_pine&border_color=f9a8d4&title_color=ec4899&icon_color=f472b6&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakultyum&layout=compact&theme=rose_pine&border_color=f9a8d4&title_color=ec4899" />
-
-[![streak](https://streak-stats.demolab.com?user=yakultyum&theme=rose-pine&border=f9a8d4&ring=ec4899&fire=f472b6&currStreakLabel=ec4899)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-<img src="assets/divider.jpg" width="80%" />
-</div>
-
-### 🐍 Contributions
-
-<div align="center">
-
-![snake](https://github.com/yakultyum/yakultyum/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
+My job is to stay close to those moments. To translate human messiness into something a team can actually build. And to make sure that as AI gets more capable, the products we ship still feel like they were made *for* people — not just *at* them.
 
 <br/>
 
