@@ -1,0 +1,93 @@
+<svg width="900" height="240" viewBox="0 0 900 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="900" y2="240" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#1a0a0f"/>
+      <stop offset="50%" stop-color="#2d1020"/>
+      <stop offset="100%" stop-color="#1a0a0f"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#c4956a"/>
+      <stop offset="50%" stop-color="#e8c49a"/>
+      <stop offset="100%" stop-color="#c4956a"/>
+    </linearGradient>
+    <!-- Hello Kitty silhouette path (simplified outline) -->
+    <clipPath id="clip"><rect width="900" height="240"/></clipPath>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="240" fill="url(#bg)"/>
+
+  <!-- Geometric grid lines -->
+  <line x1="0" y1="120" x2="900" y2="120" stroke="#c4956a" stroke-opacity="0.08" stroke-width="0.5"/>
+  <line x1="450" y1="0" x2="450" y2="240" stroke="#c4956a" stroke-opacity="0.08" stroke-width="0.5"/>
+  <circle cx="680" cy="120" r="90" stroke="#c4956a" stroke-opacity="0.12" stroke-width="0.8" fill="none"/>
+  <circle cx="680" cy="120" r="60" stroke="#c4956a" stroke-opacity="0.08" stroke-width="0.5" fill="none"/>
+
+  <!-- Corner dots -->
+  <circle cx="30" cy="30" r="2" fill="#c4956a" fill-opacity="0.4"/>
+  <circle cx="870" cy="30" r="2" fill="#c4956a" fill-opacity="0.4"/>
+  <circle cx="30" cy="210" r="2" fill="#c4956a" fill-opacity="0.4"/>
+  <circle cx="870" cy="210" r="2" fill="#c4956a" fill-opacity="0.4"/>
+  <!-- Corner lines -->
+  <polyline points="30,50 30,30 50,30" stroke="#c4956a" stroke-opacity="0.35" stroke-width="1" fill="none"/>
+  <polyline points="850,30 870,30 870,50" stroke="#c4956a" stroke-opacity="0.35" stroke-width="1" fill="none"/>
+  <polyline points="30,190 30,210 50,210" stroke="#c4956a" stroke-opacity="0.35" stroke-width="1" fill="none"/>
+  <polyline points="850,210 870,210 870,190" stroke="#c4956a" stroke-opacity="0.35" stroke-width="1" fill="none"/>
+
+  <!-- Star sparkles -->
+  <g fill="#c4956a" fill-opacity="0.6">
+    <path d="M120 55 L122 61 L128 63 L122 65 L120 71 L118 65 L112 63 L118 61 Z" transform="scale(0.6) translate(80 30)"/>
+    <path d="M120 55 L122 61 L128 63 L122 65 L120 71 L118 65 L112 63 L118 61 Z" transform="scale(0.4) translate(870 200)"/>
+    <path d="M120 55 L122 61 L128 63 L122 65 L120 71 L118 65 L112 63 L118 61 Z" transform="scale(0.35) translate(500 80)"/>
+  </g>
+  <circle cx="350" cy="40" r="1.5" fill="#c4956a" fill-opacity="0.5"/>
+  <circle cx="200" cy="195" r="1" fill="#c4956a" fill-opacity="0.4"/>
+  <circle cx="820" cy="150" r="1.5" fill="#c4956a" fill-opacity="0.5"/>
+
+  <!-- Hello Kitty line-art (simplified, right side) -->
+  <g transform="translate(640, 50)" stroke="#c4956a" stroke-opacity="0.55" stroke-width="1.4" fill="none">
+    <!-- Head -->
+    <ellipse cx="60" cy="62" rx="48" ry="46"/>
+    <!-- Ears -->
+    <path d="M18 28 L8 8 L32 20"/>
+    <path d="M102 28 L112 8 L88 20"/>
+    <!-- Eyes -->
+    <circle cx="44" cy="58" r="5" fill="#c4956a" fill-opacity="0.4" stroke="none"/>
+    <circle cx="76" cy="58" r="5" fill="#c4956a" fill-opacity="0.4" stroke="none"/>
+    <!-- Nose -->
+    <ellipse cx="60" cy="70" rx="4" ry="3" fill="#c4956a" fill-opacity="0.35" stroke="none"/>
+    <!-- Whiskers -->
+    <line x1="10" y1="65" x2="38" y2="68"/>
+    <line x1="10" y1="72" x2="38" y2="72"/>
+    <line x1="82" y1="68" x2="110" y2="65"/>
+    <line x1="82" y1="72" x2="110" y2="72"/>
+    <!-- Bow (right ear) -->
+    <path d="M82 10 Q90 4 96 10 Q90 16 82 10Z"/>
+    <path d="M96 10 Q102 4 110 10 Q102 16 96 10Z"/>
+    <circle cx="96" cy="10" r="2.5" fill="#c4956a" fill-opacity="0.5" stroke="none"/>
+    <!-- Body -->
+    <path d="M20 108 Q12 140 18 168 Q40 178 60 178 Q80 178 102 168 Q108 140 100 108"/>
+    <!-- Arms -->
+    <path d="M20 115 Q4 125 6 142"/>
+    <path d="M100 115 Q116 125 114 142"/>
+    <!-- Dress collar bow -->
+    <path d="M46 112 Q52 106 60 112 Q52 118 46 112Z"/>
+    <path d="M60 112 Q68 106 74 112 Q68 118 60 112Z"/>
+    <circle cx="60" cy="112" r="2" fill="#c4956a" fill-opacity="0.5" stroke="none"/>
+  </g>
+
+  <!-- Main text: CARLY -->
+  <text x="80" y="118" font-family="Georgia, 'Times New Roman', serif" font-size="72" letter-spacing="12" fill="url(#gold)" font-weight="400">CARLY</text>
+
+  <!-- Subtitle -->
+  <text x="82" y="150" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13" letter-spacing="5" fill="#c4956a" fill-opacity="0.75" font-weight="300">AI PRODUCT MANAGER</text>
+
+  <!-- Thin rule -->
+  <line x1="82" y1="162" x2="320" y2="162" stroke="#c4956a" stroke-opacity="0.3" stroke-width="0.6"/>
+
+  <!-- ZJU line -->
+  <text x="82" y="180" font-family="'Helvetica Neue', Arial, sans-serif" font-size="10" letter-spacing="3" fill="#c4956a" fill-opacity="0.45" font-weight="300">ZHEJIANG UNIVERSITY</text>
+
+  <!-- Bottom tagline -->
+  <text x="82" y="210" font-family="Georgia, serif" font-size="10" letter-spacing="1" fill="#c4956a" fill-opacity="0.35" font-style="italic">AI × Product × Impact</text>
+</svg>
