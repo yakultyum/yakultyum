@@ -4,35 +4,35 @@
 
 <br/>
 
-## About
+## 关于我
 
-AI Product Manager based in Hangzhou, currently studying at Zhejiang University.
+AI 产品经理，在杭州，浙江大学本科在读。
 
-I've interned at two major tech companies working on AI products — focusing on **LLM Agents** and **consumer-facing growth**. I care deeply about the people behind the screen: in an age of AI, I believe the most valuable thing a PM can do is stay curious about human behavior, and build products that feel genuinely warm.
+有两段大厂 AI 产品实习经历，主要方向是 **LLM Agent** 和 **C 端用户增长**。我很在意屏幕背后的人：在 AI 越来越强的时代，我觉得 PM 最该做的事，是保持对人的好奇心，做让人感觉「被理解」的产品。
 
-> *In the AI era, I want to be the one who keeps asking: "but what does the human actually feel?"*
+> *AI 时代，我想做那个一直在追问「用户到底感受到了什么」的人。*
 
 <br/>
 
-## Projects
+## 项目
 
-| | Project | Description |
+| | 项目 | 简介 |
 |---|---|---|
-| 🧮 | [**Mathos**](https://github.com/yakultyum/mathos) | AI-powered linear algebra teaching platform — RAG Q&A, auto-grading, question bank, 3D visualization |
-| 🪞 | [**Mirrora**](https://github.com/yakultyum/mirrora) | AI-driven personal dance learning app |
-| 🪄 | [**Lumos**](https://github.com/yakultyum/lumos-app) | A self-growth journaling app for Chinese youth, inspired by drift bottles |
-| 🏛️ | [**Greek Mythology Personality Test**](https://github.com/yakultyum/Greek-mythology-personality-test) | Personality test with a Greek mythology theme |
-| 🎩 | [**Sorting Hat**](https://github.com/yakultyum/sorting-hat) | A skill for customizing AI personas and managing workflows |
+| 🧮 | [**Mathos**](https://github.com/yakultyum/mathos) | AI 线性代数教学平台 — RAG 问答、自动批改、题库、3D 可视化 |
+| 🪞 | [**Mirrora**](https://github.com/yakultyum/mirrora) | AI 驱动的个人舞蹈学习 app |
+| 🪄 | [**Lumos**](https://github.com/yakultyum/lumos-app) | 以漂流瓶为灵感，面向中国青少年的自我成长记录 app |
+| 🏛️ | [**希腊神话性格测试**](https://github.com/yakultyum/Greek-mythology-personality-test) | 希腊神话主题性格测试 |
+| 🎩 | [**Sorting Hat**](https://github.com/yakultyum/sorting-hat) | 定制 AI 人设 + 工作流管理 skill |
 
 <br/>
 
-## Philosophy
+## 产品理念
 
-I don't think great products come from better algorithms alone.
+好产品不只是算法更好一点。
 
-They come from noticing things — the small frustrations people don't bother to mention, the habits they've quietly built around broken tools, the moments where a product either earns trust or loses it forever.
+是有人注意到了那些用户懒得开口说的小摩擦，观察到他们围绕一个残缺工具默默养成的习惯，抓住了产品赢得或失去信任的那一瞬间。
 
-My job is to stay close to those moments. To translate human messiness into something a team can actually build. And to make sure that as AI gets more capable, the products we ship still feel like they were made *for* people — not just *at* them.
+我想做那个离这些时刻最近的人——把人的复杂和混乱，翻译成团队可以真正落地的东西。让 AI 越来越强的同时，我们做出来的产品，依然像是为人做的，而不只是对着人发射的。
 
 <br/>
 
