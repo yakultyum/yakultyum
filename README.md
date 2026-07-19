@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/banner.jpg" width="100%" alt="Carly"/>
+<img src="assets/carly-banner-1.jpg" width="100%" />
 </div>
 
 <br/>
@@ -8,41 +8,46 @@
 
 ```javascript
 const carly = {
-  name:       "Carly",
-  university: "Zhejiang University 🎓",
-  role:       "AI Product Manager",
-  focus:      ["LLM Products", "User Research", "0 → 1"],
-  currentlyBuilding: "Mathos — AI Teaching Platform",
-  belief:     "great products start with great questions",
+  university : "Zhejiang University 🎓",
+  role       : "AI Product Manager",
+  focus      : ["LLM Products", "User Research", "0 → 1"],
+  building   : "Mathos — AI Teaching Platform 🧮",
+  belief     : "great products start with great questions",
 };
 ```
 
 <br clear="right"/>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=ffb7c5&height=6&section=header" width="100%"/>
+</div>
 
 ### 🚀 Featured Project
 
 <div align="center">
 
-[![Mathos](https://github-readme-stats.vercel.app/api/pin/?username=yakultyum&repo=mathos&theme=dark&border_color=c4956a&title_color=c4956a&icon_color=c4956a&bg_color=0d0608)](https://github.com/yakultyum/mathos)
+[![Mathos](https://github-readme-stats.vercel.app/api/pin/?username=yakultyum&repo=mathos&theme=rose_pine&border_color=f9a8d4&title_color=ec4899&icon_color=f472b6)](https://github.com/yakultyum/mathos)
 
 </div>
 
----
+<div align="center">
+<img src="assets/divider.jpg" width="80%" />
+</div>
 
-### 📊 Stats
+### 📊 GitHub Stats
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=yakultyum&show_icons=true&theme=dark&border_color=c4956a&title_color=c4956a&icon_color=c4956a&bg_color=0d0608&count_private=true"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakultyum&layout=compact&theme=dark&border_color=c4956a&title_color=c4956a&bg_color=0d0608"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=yakultyum&show_icons=true&theme=rose_pine&border_color=f9a8d4&title_color=ec4899&icon_color=f472b6&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakultyum&layout=compact&theme=rose_pine&border_color=f9a8d4&title_color=ec4899" />
 
-[![streak](https://streak-stats.demolab.com?user=yakultyum&theme=dark&border=c4956a&ring=c4956a&fire=e8855a&background=0d0608)](https://git.io/streak-stats)
+[![streak](https://streak-stats.demolab.com?user=yakultyum&theme=rose-pine&border=f9a8d4&ring=ec4899&fire=f472b6&currStreakLabel=ec4899)](https://git.io/streak-stats)
 
 </div>
 
----
+<div align="center">
+<img src="assets/divider.jpg" width="80%" />
+</div>
 
 ### 🐍 Contributions
 
@@ -52,8 +57,8 @@ const carly = {
 
 </div>
 
----
+<br/>
 
 <div align="center">
-<img src="assets/footer.jpg" width="100%" alt="footer"/>
+<img src="assets/footer.jpg" width="100%" />
 </div>
